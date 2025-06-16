@@ -1,5 +1,7 @@
 # RedBus-Demand-Forecasting
-# 
+
+![Project Pipeline](https://github.com/dsmohiit/Walmart-Sales-Analysis/blob/main/Blank%20diagram.png)
+
 
 ## TimeSeries-Bus-Demand-Model
 
